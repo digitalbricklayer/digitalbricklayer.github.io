@@ -1,2 +1,2 @@
-# website
-Repository for the project website.
+# Dyna Project website repository
+Repository for the Dyna Project website.
