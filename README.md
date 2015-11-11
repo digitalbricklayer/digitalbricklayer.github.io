@@ -1,2 +1,2 @@
-# Dyna Project website repository
-Repository for the [Dyna Project website](http://dyna-project.github.io/).
+# Constraint Capers website repository
+Repository for the [Constraint Capers website](http://constraint-capers.github.io/).
