@@ -14,10 +14,15 @@ permalink: /:slug/
 markdown: kramdown
 theme: minima
 gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-redirect-from
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
   - LICENSE
   - run-dev-server.sh
+
+google_analytics: UA-71383-42
