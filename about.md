@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Jack has been doing the rounds in the I.T. industry since 1992 after an illustrious career as a washer upper, gardener & construction labourer.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Most of Jack’s career in I.T. has been spent at the code face writing a variety of Microsoft Windows software using C/C++, including a stint writing network management software. He even had a spell writing device drivers for a range of long defunct ISDN cards. He did manage to reach one of his life goals by getting a product he worked on into his local PC World store. (He also saw the same product in the remainder bin not too long afterwards.)
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Jack now does lots of different tasks including stints of programming, inbound marketing, e-commerce and office cleaner. Most of his time is dedicated to helping run OPENXTRA Ltd., a specialist IT reseller / distributor.
+
+Cheers,
+
+Jack Hughes
