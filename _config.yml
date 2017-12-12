@@ -8,6 +8,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mrjackhughes
 github_username:  digitalbricklayer
 copyright_notice: "Copyright &copy; 2015-2017 Jack Hughes. All rights reserved."
+permalink: /:slug/
 
 # Build settings
 markdown: kramdown
@@ -19,3 +20,5 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENSE
+  - run-dev-server.sh
+  
