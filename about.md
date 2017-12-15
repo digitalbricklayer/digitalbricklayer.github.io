@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: About
@@ -9,6 +10,8 @@ Jack has been doing the rounds in the I.T. industry since 1992 after an illustri
 Most of Jack’s career in I.T. has been spent at the code face writing a variety of Microsoft Windows software using C/C++, including a stint writing network management software. He even had a spell writing device drivers for a range of long defunct ISDN cards. He did manage to reach one of his life goals by getting a product he worked on into his local PC World store. (He also saw the same product in the remainder bin not too long afterwards.)
 
 Jack now does lots of different tasks including stints of programming, inbound marketing, e-commerce and office cleaner. Most of his time is dedicated to helping run OPENXTRA Ltd., a specialist IT reseller / distributor.
+
+This blog will most talk about Jack's software development activities including his current side project building a [constraint satisfaction workbench](https://github.com/digitalbricklayer/workbench) everybody can use.
 
 Cheers,
 
