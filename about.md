@@ -11,7 +11,9 @@ Most of Jack’s career in I.T. has been spent at the code face writing a variet
 
 Jack now does lots of different tasks including stints of programming, inbound marketing, e-commerce and office cleaner. Most of his time is dedicated to helping run OPENXTRA Ltd., a specialist IT reseller / distributor.
 
-This blog will most talk about Jack's software development activities including his current side project building a [constraint satisfaction workbench](https://github.com/digitalbricklayer/workbench) everybody can use.
+This blog will mostly talk about Jack's software development activities including his current side project building a [constraint satisfaction workbench](https://github.com/digitalbricklayer/workbench) everybody can use... well not at the moment because I haven't finished it yet.
+
+If you want to read my (now defunct) ramblings about network management and the like, please visit the [Tech Teapot blog](https://techteapot.com/).
 
 Cheers,
 
