@@ -1,9 +1,8 @@
-# Site configuration
-title: Jack Hughes's Dev Blog
+title: Jack Hughes Dev Blog
 email: digitalbricklayer@gmail.com
 description: >
   This site is the digital home of Jack Hughes a journeyman programmer from Leeds, UK. He is a professional software developer specialising in the .NET stack. He currently works for OPENXTRA Ltd.. His current pet project is writing a constraint satisfaction workbench.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: ""
 url: "http://digitalbricklayer.github.io"
 twitter_username: mrjackhughes
 github_username:  digitalbricklayer
