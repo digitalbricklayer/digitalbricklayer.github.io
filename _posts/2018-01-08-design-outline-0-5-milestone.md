@@ -41,7 +41,9 @@ I need re-design the existing old school Windows main menu. Ideally a new Office
 
 ## User Interface Design
 The current design where there are three separate displays that can only be displayed one at a time. If the user wishes to move from the model to the visualizer design they must select the same from the display selector combo box below the main menu in the main window.
+
 ![Current Workbench Design]( {{ "/assets/current-application-design.png" | absolute_url }})
+
 Ideally the model display should be merged into the visualizer display. The visualizer display would retain its ability to display in either design or view mode. Perhaps the display could utilize a split screen so that both modes could be seen at the same time. The visualizer display would probably need to be renamed to something more appropriate. Maybe just workspace display?
 
 ## External Data
