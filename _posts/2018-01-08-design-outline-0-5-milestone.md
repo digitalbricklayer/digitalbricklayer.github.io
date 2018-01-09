@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Design Outline 0.5 Milestone"
+description: "An outline of what is upcoming in the Workbench 0.5 milestone."
 date: 2018-01-08 14:01:00 +0000
 categories: workbench
 ---
 ## Introduction
 I really want to get the Workbench to a point that it can be used by real people on real problems. And I would like that to happen as soon as possible.
 
-This milestone should take the software a lot closer to getting the software into peoples' hands. Still not there, but a lot closer. :)
+This milestone should take the software a lot closer to getting the software released. Still not there, but a lot closer. :blush:
 
 ## Output
 The program is intended to solve constraint models and permit the user to visualize the result in a variety of ways. Plainly, creating the model and the output will be an iterative process of refining both the model and the visualization of the solution.
@@ -63,4 +64,4 @@ The table will require the following features:
 * Delete selected column
 
 ## Summary
-Whilst the 0.5 milestone will not build a releasable product, it will go a long way towards making one. At the very least it will build a workable prototype so that a decision can be made about whether Workspace is something that is worth building into a product.
+Whilst the 0.5 milestone will not build a releasable product, it will go a long way towards making one. At the very least it will build a workable prototype so that a decision can be made about whether Workspace is something worth building into a product.
