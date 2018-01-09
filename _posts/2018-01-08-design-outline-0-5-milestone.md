@@ -8,7 +8,7 @@ categories: workbench
 ## Introduction
 I really want to get the Workbench to a point that it can be used by real people on real problems. And I would like that to happen as soon as possible.
 
-This milestone should take the software a lot closer to getting the software released. Still not there, but a lot closer. :blush:
+This milestone should take the software a lot closer to getting the software released. Still not there, but a lot closer.
 
 ## Output
 The program is intended to solve constraint models and permit the user to visualize the result in a variety of ways. Plainly, creating the model and the output will be an iterative process of refining both the model and the visualization of the solution.
