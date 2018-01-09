@@ -63,4 +63,4 @@ The table will require the following features:
 * Delete selected column
 
 ## Summary
-Whilst the 0.5 milestone will not build a releasable product, it will go a long way towards making one. At the very least it will build a workable prototype so that a decision can be made about whether the Workspace is something that is worth building into a product.
+Whilst the 0.5 milestone will not build a releasable product, it will go a long way towards making one. At the very least it will build a workable prototype so that a decision can be made about whether Workspace is something that is worth building into a product.
