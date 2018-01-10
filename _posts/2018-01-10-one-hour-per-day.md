@@ -34,3 +34,6 @@ The last thing you need to do when you are about to finish for the day is to pro
 I work on my pet project alone but I still act as if I work as part of a team. I use GitHub issue tracker assiduously and track my work in GitHub project. If I don't know what I'm working on, I just look at the project on GitHub and it will tell me which issue is **In Progress**. Due to the fact that I work alone and sparingly, I need an external *memory* of the project to help me speedily get productive each day.
 
 With just one hour per day, you cannot afford more than a few minutes to understand what you are working on and what you need to do next. If you can optimise your daily start then you will go a long way to making your pet project a pleasurable experience.
+
+## Conclusion
+Plainly working for just an hour per day does limit the scale of project you can tackle, you may be pleasantly surprised how much you can achieve. If you find yourself prone to perfectionism, you may find restricting your time on a project is a good way to free yourself. You may find that the attitude spills back into your regular work. After all, your regular work is time constrained too.
