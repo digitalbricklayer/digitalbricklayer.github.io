@@ -41,3 +41,5 @@ With just one hour per day, you cannot afford more than a few minutes to underst
 
 ## Conclusion
 Plainly working for just an hour per day does limit the scale of project you can tackle, you may be pleasantly surprised how much you can achieve. If you find yourself prone to perfectionism, you may find restricting your time on a project is a good way to free yourself. You may find that the attitude spills back into your regular work. After all, your regular work is time constrained too.
+
+One of the things you will need to get used to is walking away when you are in the zone. That time when everything feels just right. It is heart breaking sometimes. But you've always got tommorrow. Probably.
