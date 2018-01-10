@@ -52,7 +52,7 @@ I need re-design the existing old school Windows main menu. Ideally a new Office
 The UI design changes should make the main menu a lot simpler given the removal of a lot of modality from the application views. The application will look a bit dated but I'm not too concerned with that. The aim of the prototype is to explore the application space to see if there's a useful application there not to push the boundaries of user interface design.
 
 ## External Data
-If the program is to be used to solve a real problem, the chances are that it will need to be able to read external data. Data in the form of a table connected to some kind of external data like a CSV file or Excel file would be the obvious place to start. Although, perhaps an input table could be implemented first that requires manual data input. Once the manual data input table is built it won't take long to populate it from an external source like a CSV file.
+If the program is to be used to solve real problems, the chances are that it will need to be able to read data created outside of itself. Data in the form of a table connected to some kind of external data like a CSV file or Excel file would be the obvious place to start. Although, perhaps an input table could be implemented first that requires only manual data input. Once the manual data input table is built it won't take long to populate it from an external source like a CSV file.
 
 The table will require the following features:
 
