@@ -25,13 +25,13 @@ More precisely, do not get stuck. Getting stuck for one full day on a regular pr
 ## Context Switching
 The biggest problem with working in very short bursts in something like software development is that in order to be productive you need a lot of context. What am I trying to achieve? What is the design of this part of the software? etc...
 
-There is no easy solution. But, you will get better at context switching by practicing it. Here are also some hints that may help you.
+There is no easy solution. But, you will get better at context switching by practicing it. Here are some hints that may help you.
 
-The last thing you need to do when you are about to finish for the day is to provide yourself with some nice hints for yourself the next time you sit down to work. This becomes more important just before a several day break like a weekend or holiday. The hint could be a failing test or a syntax error to remind you what you were working on. The first thing I do everytime I sit down is run the test suite. If the build fails, I fix it. If a test fails, I fix that.
+The last thing you need to do when you are about to finish for the day is to provide yourself with some nice pointers for yourself the next time you sit down to work. This becomes more important just before a longer break like a weekend or holiday. The hint could be a failing test or a syntax error to remind you what you were working on. The first thing I do everytime I sit down is run the test suite. If the build fails, I fix it. If a test fails, I fix that.
 
 ![Workbench Software Project Screenshot]( {{ "/assets/workbench-software-project.png" | absolute_url }})
 
-I work on my pet project alone but I still act as if I work as part of a team. I use GitHub issue tracker assiduously and track my work in GitHub project. If I don't know what I'm working on, I just look at the project on GitHub and it will tell me which issue is **In Progress**. Due to the fact that I work alone and sparingly, I need an external *memory* of the project to help me speedily get productive each day.
+I work on my pet project alone but I still act as if I am working as part of a team. I use the GitHub issue tracker assiduously and track my work in GitHub project. If I don't know what I'm working on, I just look at the project on GitHub and it will tell me which issue is **In Progress**. Due to the fact that I work alone and sparingly, I need an external *memory* of the project to help me speedily get productive each day.
 
 ![GitHub Task List Example Screenshot]( {{ "/assets/task-list-example.png" | absolute_url }})
 
