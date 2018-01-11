@@ -27,7 +27,7 @@ The biggest problem with working in very short bursts in something like software
 
 There is no easy solution. But, you will get better at context switching by practicing it. Here are some hints that may help you.
 
-The last thing you need to do when you are about to finish for the day is to provide yourself with some nice pointers for yourself the next time you sit down to work. This becomes more important just before a longer break like a weekend or holiday. The hint could be a failing test or a syntax error to remind you what you were working on. The first thing I do everytime I sit down is run the test suite. If the build fails, I fix it. If a test fails, I fix that.
+The last thing you need to do when you are about to finish for the day is to provide yourself with some nice pointers for the next time you sit down to work. This becomes more important just before a longer break like a weekend or holiday. The hint could be a failing test or a syntax error to remind you what you were working on. The first thing I do everytime I sit down is run the test suite. If the build fails, I fix it. If a test fails, I fix that.
 
 ![Workbench Software Project Screenshot]( {{ "/assets/workbench-software-project.png" | absolute_url }})
 
