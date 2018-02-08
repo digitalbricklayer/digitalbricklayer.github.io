@@ -1,7 +1,7 @@
 version: '3'
 
 services:
-  jeykll-server:
+  jekyll-server:
     image: starefossen/github-pages
     container_name: digitalbricklayer-github-io-jekyll-server
     volumes:
