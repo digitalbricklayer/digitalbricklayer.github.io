@@ -1,0 +1,50 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Site notice & copyright footer */
+
+.footer-notice {
+  display:inline-block;
+  width: 100%;
+}
+
+.footer-notice-title {
+  float:left;
+}
+
+.footer-notice-copyright {
+  float:right;
+}
+
+/* Article > table styles */
+
+table.attribute-tbl,
+table.attribute-tbl tr {
+    border: solid 1px #DDDDDD;
+    background-color: #FFFFFF;
+    width: 100%;
+}
+
+table.attribute-tbl tr.group-ttl {
+    background-color: #148fdd;
+    color:#FFFFFF;
+    font-weight:bold;
+    letter-spacing:2px;
+    text-transform:uppercase;
+}
+
+table.attribute-tbl td {
+    padding: 6px 6px 6px 12px;
+}
+
+table.attribute-tbl tr.odd,
+table.attribute-tbl tr.odd td {
+    border-bottom-color: #DDDDDD;
+    background-color: #F7F8F9;
+}
+
+a.page-link.ox {
+    color: orange;
+}
