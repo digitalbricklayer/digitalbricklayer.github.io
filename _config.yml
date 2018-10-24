@@ -3,7 +3,7 @@ email: digitalbricklayer@gmail.com
 description: >
   This site is the digital home of Jack Hughes a journeyman programmer from Leeds, UK. He is a professional software developer specialising in the .NET stack. He currently works for OPENXTRA Ltd.. His current pet project is writing a constraint satisfaction workbench.
 baseurl: ""
-url: "http://digitalbricklayer.github.io"
+url: "https://digitalbricklayer.github.io"
 twitter_username: mrjackhughes
 github_username:  digitalbricklayer
 copyright_notice: "Copyright &copy; 2015-2018 Jack Hughes. All rights reserved."
