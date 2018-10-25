@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Review of the 0.5 milestone"
-description: "A review of the work carried out during the v0.5 milestone and a look forward to what happens next."
+title: "Review of the Workbench v0.5 Milestone"
+description: "A review of the work carried out during the Workbench v0.5 milestone and a look forward to what happens next."
 date: 2018-10-25 10:29:00 +0000
 categories: workbench
 ---
 ## Introduction
-After eight months, most of the work for the v0.5 milestone has now been completed. The only work to complete are a couple of bug issues and the completion of the expression error issue.
+After eight months, most of the work for the [Workbench](https://github.com/digitalbricklayer/workbench) v0.5 milestone has now been completed. The only work to complete are a couple of bug issues and the completion of the expression error issue.
 
 ## User interface
 One major change has been the change in direction on the user interface front. Out is the move towards a single screen with model and visualizers. The causes for this were two fold. Firstly, I came to the conclusion that the model graphics didn't add very much. And secondly, the WPF grid control was giving me a lot of problems with focus. In other words, I would have needed to scrap the grid control as the display part of the table visualizer. I did not have the time to do that. So I came to the conclusion that a single display wasn't going to work. I therefore scrapped the single editor screen and split the relevant editors and solution out into a tabbed interface.
