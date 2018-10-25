@@ -28,7 +28,16 @@ The old document serialization mechanism has been replaced by an XML based file 
 If the Workbench is to be of any use, it will need to be able to process external data in various formats. To this end I have begun the process by adding the ability to use the table visualizer as a store of external data in quite simple ways. I expect that in due course future releases will greatly increase the Workbench's ability to work with external data in many different ways. At the moment the only thing the Workbench is able to do is take a domain's values from a range of cells inside a table.
 
 ## Model validation
-There have been a lot of changes to the various mini-languages lurking inside Workbench. Unfortunately, the model validator has not kept up with those changes. This milestone includes some improvements to ensure that the model is sufficiently valid that the solver can make a reasonable job of producing a solution. When the model is not valid, a list of relatively easy to understand error messages are displayed.
+There have been a lot of changes to the various mini-languages lurking inside Workbench. As of the v0.5 milestone, the following mini-languages exist:
+
++ constraint expressions
++ all different expressions
++ variable domain expressions
++ shared domain expressions
++ property binding expressions
++ visualizer binding expressions
+
+Unfortunately, the model validator has not kept up with the many changes to these languages over the last year or two. This milestone includes some improvements to ensure that the model is sufficiently valid that the solver can make a reasonable job of producing a solution. When the model is not valid, a list of relatively easy to understand error messages are displayed.
 
 In addition, the error status should be displayed inline with the model.
 
