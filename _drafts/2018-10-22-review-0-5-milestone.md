@@ -42,3 +42,8 @@ Unfortunately, the model validator has not kept up with the many changes to thes
 In addition, the error status should be displayed inline with the model.
 
 ## What's next...
+The v0.5 milestone is the point at which I decide whether or not to continue with the project. The main criteria for continuing is simply whether I believe the Workbench will be of any utility. My answer to that is that I simply don't know at this point. One of the problems I have is that I do not know enough about real world constraint satisfaction to be able to know whether the Workbench as is currently imagined would help solve those real world problems.
+
+The only logical next step therefore is to find real world problems and attempt to solve them using the Workbench. Then refine the Workbench based upon the feedback gained from solving the problems. Rinse and repeat a few times and then the Workbench might be a useful tool.
+
+So, the next step is therefore to find a real world problem to solve...
