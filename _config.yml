@@ -23,5 +23,3 @@ exclude:
   - README.md
   - LICENSE
   - run-dev-server.sh
-
-google_analytics: UA-71383-42
